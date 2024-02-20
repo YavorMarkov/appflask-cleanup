@@ -46,4 +46,4 @@ To use this pipeline, ensure your Jenkins environment is configured with access 
 This pipeline is designed for flexibility and can be adapted to include additional cleanup tasks or to handle other resources within Google Cloud as needed.
 
 
-🔍 On the lookout for job opportunities with DevOps Skils. Interested in joining a dynamic team! 🔍
+🔍 Actively seeking job opportunities to leverage my DevOps skills. Eager to contribute to a dynamic team 🔍
