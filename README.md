@@ -44,3 +44,6 @@ The pipeline utilizes several environment variables for its operation:
 To use this pipeline, ensure your Jenkins environment is configured with access to the Google Cloud SDK and that the necessary credentials are available as Jenkins secrets. Update the environment variables within the Jenkinsfile to match your specific Google Cloud project and service details.
 
 This pipeline is designed for flexibility and can be adapted to include additional cleanup tasks or to handle other resources within Google Cloud as needed.
+
+
+🔍 On the lookout for job opportunities in DevOps Skils. Interested in joining a dynamic team! 🔍
