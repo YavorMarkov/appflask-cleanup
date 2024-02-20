@@ -47,8 +47,8 @@ pipeline {
 
     post {
         always {
-            // Add any cleanup actions that should always run here
-            // For example, logging out of Google Cloud if necessary
+            // Example action for the always block
+            echo 'Cleanup process completed.'
         }
     }
 }
